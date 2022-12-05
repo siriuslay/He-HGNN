@@ -1,5 +1,11 @@
 # He-HGNN
 Source code of Master's degree thesis: "Homophily-enhanced Heterogeneous Graph Neural Networks"
+
+Model scheme:  
+![image](model2.png)  
+
+  
+
 # Requirements
 1. Python >= 3.6.8
 2. Pytorch >= 1.3.0
