@@ -7,3 +7,5 @@ Source code of Master's degree thesis: "Homophily-enhanced Heterogeneous Graph N
 The row/processed data are provided here: [data](https://www.aliyundrive.com/s/W6EKEkH5hKb) 
 # Useage
 Take "yelp" dataset as an example: python run_yelp.py
+# Reference
+This paper and codes are mainly inspired by ["MAGNN: Metapath Aggregated Graph Neural Network for Heterogeneous Graph Embedding"](https://github.com/cynricfu/MAGNN)
